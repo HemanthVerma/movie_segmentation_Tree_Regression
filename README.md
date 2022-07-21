@@ -11,9 +11,13 @@ and create a png type Image
 
 
 Problems that can be occured in plotting the tree
+
+
 1. pydotplus not found
 solution : go to conda prompt and install pydotplus with the below command
 -> pip install pydotplus
+
+
 2.graphviz error:
 solution: try to check the graphviz directory or else install from the conda prompt
 -> conda install -c conda-forge python-graphviz
